@@ -1,3 +1,17 @@
+> [!IMPORTANT]
+> ## ⚖️ פורק משמר — הגרסה האחרונה תחת הרישיון החופשי CC BY-NC-SA 4.0
+>
+> מאגר זה הוא פורק של [Otzaria/otzaria-library](https://github.com/Otzaria/otzaria-library)
+> המשמר את המצב האחרון של המאגר תחת רישיון **Creative Commons BY-NC-SA 4.0** —
+> קומיט [`1367e85`](https://github.com/Torah-texts/otzaria-library/commit/1367e85997e8a326ef650ef04c3f13ad451dfedf) מיום 27.06.2026.
+>
+> למחרת (28.06.2026) שונה הרישיון במאגר המקורי לרישיון מגביל ("Personal Use License").
+> על־פי סעיף **PRIOR VERSIONS** ברישיון החדש עצמו, גרסאות שפורסמו קודם לכן נשארות
+> זמינות תחת CC BY-NC-SA 4.0, והזכויות שהוענקו בהן אינן ניתנות לביטול.
+>
+> **שימו לב:** טקסטים של צד שלישי (ספריא, דיקטה, פנינים, תורת אמת ועוד) כפופים תמיד
+> לרישיונות המקוריים שלהם, כמפורט בהמשך README זה.
+
 # otzaria-library
 the library for [otzaria](https://github.com/Otzaria/otzaria) app, with the scripts that created it
 
