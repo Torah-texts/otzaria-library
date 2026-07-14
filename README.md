@@ -1,4 +1,19 @@
 > [!IMPORTANT]
+> ## ⚖️ Preservation fork — the last version under the permissive CC BY-NC-SA 4.0 license
+>
+> This repository is a fork of [Otzaria/otzaria-library](https://github.com/Otzaria/otzaria-library)
+> preserving the last state of the repository under the **Creative Commons BY-NC-SA 4.0** license —
+> commit [`1367e85`](https://github.com/Torah-texts/otzaria-library/commit/1367e85997e8a326ef650ef04c3f13ad451dfedf) from 27.06.2026.
+>
+> The following day (28.06.2026), the license of the original repository was changed to a restrictive
+> "Personal Use License". According to the **PRIOR VERSIONS** section of that new license itself,
+> versions released beforehand remain available under CC BY-NC-SA 4.0, and the rights previously
+> granted are not revoked.
+>
+> **Please note:** third-party texts (Sefaria, Dicta, Pninim, Torat Emet, and others) always remain
+> subject to their own original licenses, as detailed later in this README.
+
+> [!IMPORTANT]
 > ## ⚖️ פורק משמר — הגרסה האחרונה תחת הרישיון החופשי CC BY-NC-SA 4.0
 >
 > מאגר זה הוא פורק של [Otzaria/otzaria-library](https://github.com/Otzaria/otzaria-library)
